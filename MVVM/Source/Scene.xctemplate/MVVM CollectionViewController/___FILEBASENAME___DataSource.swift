@@ -1,0 +1,1 @@
+../../Collection DataSource.xctemplate/___FILEBASENAME___DataSource.swift

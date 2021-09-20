@@ -1,0 +1,1 @@
+../../Assembly.xctemplate/___FILEBASENAME___Assembly.swift

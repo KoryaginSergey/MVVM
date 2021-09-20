@@ -1,0 +1,1 @@
+../../ViewModel.xctemplate/___FILEBASENAME___ViewModel.swift
